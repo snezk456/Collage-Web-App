@@ -10,11 +10,26 @@
 
 
 }
-#result
+#resultRow1
 {
     border:1px solid grey;
-    width:360px;
-    height: 300px;
+    width:300px;
+    height: 200px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+#resultRow2
+{
+    border:1px solid grey;
+    width:300px;
+    height: 200px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+#resultRow3
+{
+    border:1px solid grey;
+    width:300px;
+    height: 200px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
 }
 #logo_img
 {
@@ -40,13 +55,13 @@ h1
 h4
 {
     text-align: center;
-    color: aquamarine;
+    color: aqua;
     font-weight: bold;
     font-family: cursive;
 }
 h3
 {
-    color: blue;
+    color: yellow;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 #label1
@@ -61,4 +76,19 @@ h3
 {
     color: white;
     font-size: x-large;
+}
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color: blueviolet;
+    background-color: aquamarine;
+    font-weight: bold;
+    font-family: cursive;
+    font-size: large;
+}
+
+img:hover{
+    border-radius: 140px;
 }
