@@ -1,0 +1,64 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+
+
+}
+#result
+{
+    border:1px solid grey;
+    width:360px;
+    height: 300px;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+body
+{
+    background: rgb(166,252,70);
+background: radial-gradient(circle, rgba(166,252,70,1) 5%, rgba(252,70,107,1) 31%, rgba(252,70,107,1) 43%, rgba(181,66,232,1) 73%, rgba(63,94,251,1) 100%);
+}
+h1
+{
+    text-align: center;
+    color: white;
+    font-family: cursive;
+    font-weight: bold;
+}
+h4
+{
+    text-align: center;
+    color: aquamarine;
+    font-weight: bold;
+    font-family: cursive;
+}
+h3
+{
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#label1
+{
+    color: aqua;
+    font-family: cursive;
+    font-weight: bold;
+    font-style: oblique;
+    font-size:x-large;
+}
+#div1
+{
+    color: white;
+    font-size: x-large;
+}
